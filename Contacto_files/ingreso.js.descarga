@@ -1,0 +1,16 @@
+
+function mostrar() {
+    prompt(
+        "Ingrese su correo electronico:");
+    prompt(
+        "Ingrese su contraseña:");
+}
+
+function mostrar2() {
+    prompt(
+        "Ingrese su correo electronico:" );
+    prompt(
+        "Ingrese su contraseña:");
+}
+
+
